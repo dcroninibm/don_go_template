@@ -26,7 +26,7 @@ github-repo-gofrontend:
     has_issues: true
   hidden: [form, description]
 
-github-repo-go
+github-repo-go:
   service_id: githubpublic
   parameters:
 #    repo_name: "{{github.parameters.open-source-repo_name}}"
